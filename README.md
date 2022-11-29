@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
   <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Coin Tab</b></h3>
 
 </div>
 
@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 # 📗 Table of Contents
 
 - [📗 Table of Contents](#-table-of-contents)
-- [📖 \[Coin Tab\] ](#-cointab-)
+- [📖 Coin Tab ](#-cointab-)
   - [🛠 Built With Javascript, Javascript Events, Binance API, Linters, npm, Gitflow, Jest, React Testing Library](#-built-with-javascript-javascript-events-binance-api-linters-npm-gitflow-jest-react-testing-library)
     - [Tech Stack Javascript, React, Redux](#tech-stack-javascript-react-redux)
     - [Key Features ](#key-features-)
@@ -58,11 +58,11 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [CoinTab] <a name="about-project"></a>
+# 📖 CoinTab <a name="about-project"></a>
 
 > Your final stop for crypto statistics and analysis. Get a look of the current performance of your favorite coin
 
-**[CoinTab]** is a mobile web application that displays a list of metrics (crypto statistics) created with React and Redux.
+**CoinTab** is a mobile web application that displays a list of metrics (crypto statistics) created with React and Redux.
 
 ## 🛠 Built With <a name="built-with">Javascript, Javascript Events, Binance API, Linters, npm, Gitflow, Jest, React Testing Library</a>
 
@@ -106,6 +106,8 @@ After you're finished please remove all the comments and instructions!
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://elegant-semifreddo-b270b5.netlify.app/)
+
+- [Loom Demo Video](https://www.loom.com/share/b8b42abea6c340c5bbcd5c81cf227992)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
