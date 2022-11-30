@@ -5,17 +5,15 @@ import { BrowserRouter as Router } from 'react-router-dom';
 import coinsStore from '../redux/configureStore';
 import Home from '../components/Home';
 
-describe('Home snapshot', () => {
-  test('should render currency cards correctly', () => {
-    render(
-      <Router>
-        <Provider store={coinsStore}>
+test('Home test', async () => {
+  const home = render(
+    <React.StrictMode>
+      <Provider store={coinsStore}>
+        <Router>
           <Home />
-        </Provider>
-        ,
-      </Router>,
-    );
-    const coins = document.querySelector('.coin-container');
-    expect(coins).toBeTruthy();
-  });
+        </Router>
+      </Provider>
+    </React.StrictMode>,
+  );
+  expect(home).toMatchSnapshot();
 });

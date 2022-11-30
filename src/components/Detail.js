@@ -55,13 +55,13 @@ const Detail = () => {
           PRICE CHANGE 24HR
           <FaMoneyBillWaveAlt />
           <p className="price">
-            <small>
-              {thisCoin[0].changePercent24Hr[0] === '-' ? (
-                <FaCaretDown className="downHome" />
-              ) : (
-                <FaCaretUp className="upHome" />
-              )}
-            </small>
+
+            {thisCoin[0].changePercent24Hr[0] === '-' ? (
+              <FaCaretDown className="downHome" />
+            ) : (
+              <FaCaretUp className="upHome" />
+            )}
+
             {`$ ${parseFloat(thisCoin[0].changePercent24Hr).toFixed(2)}`}
           </p>
         </div>

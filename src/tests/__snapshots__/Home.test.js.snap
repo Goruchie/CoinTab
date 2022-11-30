@@ -1,12 +1,68 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Details test snapshot for details 1`] = `
+exports[`Home test 1`] = `
 Object {
   "asFragment": [Function],
   "baseElement": <body>
-    <div />
+    <div>
+      <section
+        class="coin-container"
+      >
+        <div
+          class="operations"
+        >
+          <form
+            class="form-container"
+          >
+            <input
+              class="input-text"
+              name="title"
+              placeholder="Search other currency..."
+              type="text"
+              value=""
+            />
+          </form>
+        </div>
+        <p
+          class="coins-heading"
+        >
+          TOP 20 CURRENCIES
+        </p>
+        <div
+          class="go1471829640 "
+        />
+      </section>
+    </div>
   </body>,
-  "container": <div />,
+  "container": <div>
+    <section
+      class="coin-container"
+    >
+      <div
+        class="operations"
+      >
+        <form
+          class="form-container"
+        >
+          <input
+            class="input-text"
+            name="title"
+            placeholder="Search other currency..."
+            type="text"
+            value=""
+          />
+        </form>
+      </div>
+      <p
+        class="coins-heading"
+      >
+        TOP 20 CURRENCIES
+      </p>
+      <div
+        class="go1471829640 "
+      />
+    </section>
+  </div>,
   "debug": [Function],
   "findAllByAltText": [Function],
   "findAllByDisplayValue": [Function],

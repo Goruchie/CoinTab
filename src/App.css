@@ -39,7 +39,7 @@ input {
   border: solid 1px #e8e8e8;
   height: 3rem;
   padding: 0 1em;
-  background-color: #240541;
+  background-color: rgb(110, 48, 97);
   color: #fff;
 }
 
@@ -80,16 +80,16 @@ input {
 
 .coin-wrapper:nth-child(4n + 0),
 .coin-wrapper:nth-child(4n + 1) {
-  background-color: #8f43b2;
+  background-color: #d83b91;
 }
 
 .coin-wrapper:nth-child(4n + 2),
 .coin-wrapper:nth-child(4n + 3) {
-  background-color: #4a1569;
+  background-color: #c53986;
 }
 
 .coins-heading {
-  background-color: #663fa5;
+  background-color: rgb(110, 48, 97);
   width: 100%;
   margin-bottom: 0.1em;
   padding: 0.5em;
@@ -194,7 +194,7 @@ input {
 }
 
 .top-detail {
-  background-color: #640e9e;
+  background-color: #ad3c7a;
   width: 100%;
   display: flex;
   padding: 2em;
@@ -203,10 +203,10 @@ input {
 }
 
 .bottom-detail {
-  background-color: #000;
+  background-color: rgb(110, 48, 97);
   width: 100%;
   display: flex;
-  flex-wrap: wrap;
+  flex-direction: row;
   gap: 1em;
 }
 
@@ -222,7 +222,7 @@ input {
 }
 
 .detail-card svg {
-  font-size: 4em;
+  font-size: 10em;
   padding: 0;
 }
 
@@ -230,6 +230,7 @@ input {
   padding: 0;
   margin: 0;
   font-weight: 300;
+  font-size: large;
 }
 
 .upHome {
