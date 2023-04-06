@@ -2,7 +2,7 @@
 
 <div align="center">
 
-  <h3><b>Coin Tab</b></h3>
+  <h1><b>Coin Tab</b></h1>
 
 </div>
 
