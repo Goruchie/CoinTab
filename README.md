@@ -1,31 +1,6 @@
 <a name="readme-top"></a>
 
-<!--
-HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
-
-Modify this file to match your project and remove sections that don't apply.
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
-After you're finished please remove all the comments and instructions!
--->
-
 <div align="center">
-
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
-  <br/>
 
   <h3><b>Coin Tab</b></h3>
 
@@ -64,40 +39,19 @@ After you're finished please remove all the comments and instructions!
 
 **CoinTab** is a mobile web application that displays a list of metrics (crypto statistics) created with React and Redux.
 
-## 🛠 Built With <a name="built-with">Javascript, Javascript Events, Binance API, Linters, npm, Gitflow, Jest, React Testing Library</a>
+## 🛠 Built With <a name="built-with"></a>
 
-### Tech Stack <a name="tech-stack">Javascript, React, Redux</a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
-
-<details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-    <li><a href="https://redux.js.org/">Redux.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://nodejs.org/">Node.js</a></li>
-  </ul>
-</details>
-
-<details>
-<summary>Database</summary>
-  <ul>
-  </ul>
-</details>
+- Javascript
+- React
+- Binance API
 
 <!-- Features -->
 
 ### Key Features <a name="key-features"></a>
 
-- **[The app fetch statistics of top 100 crypto currencies from the Binance API and lists the top 20]**
-- **[The user can search for more currencies outside those displayed]**
-- **[The app displays the detail of any currency the user selects]**
+- **The app fetch statistics of top 100 crypto currencies from the Binance API and lists the top 20**
+- **The user can search for more currencies outside those displayed**
+- **The app displays the detail of any currency the user selects**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
