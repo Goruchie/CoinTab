@@ -165,10 +165,6 @@ I would like to thank [@Binance](https://github.com/binance) for this [public AP
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- FAQ (optional) -->
-
-## ❓ FAQ <a name="faq"></a>
-
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
